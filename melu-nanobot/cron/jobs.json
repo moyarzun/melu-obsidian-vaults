@@ -20,13 +20,13 @@
         "to": "8322009900"
       },
       "state": {
-        "nextRunAtMs": 1773694800000,
-        "lastRunAtMs": 1773693000009,
+        "nextRunAtMs": 1773696600000,
+        "lastRunAtMs": 1773694800005,
         "lastStatus": "ok",
         "lastError": null
       },
       "createdAtMs": 1773692385202,
-      "updatedAtMs": 1773693005326,
+      "updatedAtMs": 1773694801984,
       "deleteAfterRun": false
     },
     {
@@ -48,13 +48,13 @@
         "to": "8322009900"
       },
       "state": {
-        "nextRunAtMs": 1773694800000,
-        "lastRunAtMs": 1773693005327,
+        "nextRunAtMs": 1773696600000,
+        "lastRunAtMs": 1773694801985,
         "lastStatus": "ok",
         "lastError": null
       },
       "createdAtMs": 1773692456668,
-      "updatedAtMs": 1773693010065,
+      "updatedAtMs": 1773694802905,
       "deleteAfterRun": false
     }
   ]
