@@ -12,6 +12,18 @@
     "weather": {
       "version": "1.0.0",
       "installedAt": 1773701613581
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1773703191663
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1773703234355
+    },
+    "google-weather": {
+      "version": "1.2.0",
+      "installedAt": 1773703772952
     }
   }
 }
