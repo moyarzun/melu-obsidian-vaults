@@ -1,5 +1,7 @@
-{"_type": "metadata", "created_at": "2026-03-16T20:30:00.010887", "updated_at": "2026-03-16T21:00:01.982234", "metadata": {}, "last_consolidated": 0}
+{"_type": "metadata", "created_at": "2026-03-16T20:30:00.010887", "updated_at": "2026-03-16T21:30:01.256144", "metadata": {}, "last_consolidated": 0}
 {"role": "user", "content": "/root/.nanobot/obsidian/sync_vaults.sh", "timestamp": "2026-03-16T20:30:05.324491"}
 {"role": "assistant", "content": "El script se ejecut\u00f3, y el registro muestra que se ejecut\u00f3 varias veces, pero no hubo cambios para commitear en las \u00faltimas dos ejecuciones.", "timestamp": "2026-03-16T20:30:05.324516", "tools_used": ["exec", "read_file"]}
 {"role": "user", "content": "/root/.nanobot/obsidian/sync_vaults.sh", "timestamp": "2026-03-16T21:00:01.982204"}
 {"role": "assistant", "content": "You want me to show you the contents of the sync script again?", "timestamp": "2026-03-16T21:00:01.982227", "tools_used": null}
+{"role": "user", "content": "/root/.nanobot/obsidian/sync_vaults.sh", "timestamp": "2026-03-16T21:30:01.256106"}
+{"role": "assistant", "content": "Error calling LLM: litellm.BadRequestError: GeminiException BadRequestError - {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Your API key was reported as leaked. Please use another API key.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}", "timestamp": "2026-03-16T21:30:01.256136", "tools_used": null}
