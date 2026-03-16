@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "jobs": [
+    {
+      "id": "20dee0fd",
+      "name": "/root/.nanobot/obsidian/sync_v",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "atMs": null,
+        "everyMs": null,
+        "expr": "*/30 * * * *",
+        "tz": "UTC"
+      },
+      "payload": {
+        "kind": "agent_turn",
+        "message": "/root/.nanobot/obsidian/sync_vaults.sh",
+        "deliver": true,
+        "channel": "telegram",
+        "to": "8322009900"
+      },
+      "state": {
+        "nextRunAtMs": 1773694800000,
+        "lastRunAtMs": 1773693000009,
+        "lastStatus": "ok",
+        "lastError": null
+      },
+      "createdAtMs": 1773692385202,
+      "updatedAtMs": 1773693005326,
+      "deleteAfterRun": false
+    },
+    {
+      "id": "2a93116f",
+      "name": "/root/.nanobot/obsidian/sync_v",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "atMs": null,
+        "everyMs": null,
+        "expr": "*/30 * * * *",
+        "tz": null
+      },
+      "payload": {
+        "kind": "agent_turn",
+        "message": "/root/.nanobot/obsidian/sync_vaults.sh",
+        "deliver": true,
+        "channel": "telegram",
+        "to": "8322009900"
+      },
+      "state": {
+        "nextRunAtMs": 1773694800000,
+        "lastRunAtMs": 1773693005327,
+        "lastStatus": "ok",
+        "lastError": null
+      },
+      "createdAtMs": 1773692456668,
+      "updatedAtMs": 1773693010065,
+      "deleteAfterRun": false
+    }
+  ]
+}

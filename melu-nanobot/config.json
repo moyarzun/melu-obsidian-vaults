@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "defaults": {
+      "model": "gemini/gemini-2.0-flash",
+      "workspace": "~/.nanobot/workspace"
+    }
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "token": "8479517987:AAGO1EOSXMtozjyIiPplkuQ9pZbdLh0eqNE"
+    }
+  },
+  "providers": {
+    "gemini": {
+      "api_key": "AIzaSyCx4IDMQAle3uHoojBBoEmiFxSrznqmprU"
+    }
+  }
+}
