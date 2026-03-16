@@ -8,6 +8,10 @@
     "agent-browser-3": {
       "version": "0.1.0",
       "installedAt": 1773698906514
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1773701613581
     }
   }
 }
