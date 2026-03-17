@@ -1,1 +1,2 @@
-I need a Google API key to use the google-weather skill.
+I can use the skill at https://clawhub.ai/steipete/weather to get the weather. The user lives in Huechuraba, Chile. If the default weather tool fails, use https://clawhub.ai/steipete/weather.
+I should not use the weather tool.
