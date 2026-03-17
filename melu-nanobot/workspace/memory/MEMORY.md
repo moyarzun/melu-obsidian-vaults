@@ -1,1 +1,1 @@
-I can use the skill at https://clawhub.ai/steipete/weather to get the weather. The user lives in Huechuraba, Chile. If the default weather tool fails, use https://clawhub.ai/steipete/weather. The weather tool may not work.
+I need to configure a web search API key to be able to search the web. I need to configure a Google Weather API key to be able to use the Google Weather skill.
