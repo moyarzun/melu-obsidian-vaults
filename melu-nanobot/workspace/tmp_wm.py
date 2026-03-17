@@ -1,4 +1,4 @@
-# Long-term Memory
+content = """# Long-term Memory
 
 ## About the user
 - Username: moyarzun
@@ -23,3 +23,6 @@
 
 ## ClawHub commands
 Always use: npx --yes clawhub@latest <cmd> --workdir /root/.nanobot/workspace
+"""
+open("/root/.nanobot/workspace/memory/MEMORY.md", "w").write(content)
+print("Memory updated successfully")
