@@ -60,3 +60,7 @@
 
 [2026-03-16 23:25] The user requested the weather in Huechuraba, but the default weather tool was not functioning. Attempts to install a new weather skill via clawhub failed due to tool unavailability and permission issues. The user then requested the removal of the `sync_vaults.sh` script and its associated cron jobs, which was successfully executed. Finally, after providing a link to a working weather skill, the assistant was able to retrieve and report the weather in Huechuraba and the user asked for that information to be added to its knowledge.
 
+[2026-03-17 00:37] The user asked about the weather in Huechuraba. The assistant failed to access any weather tools and apologized. The user subsequently requested that the 'weather' tool be vetoed, indicating a desire for it to be permanently disabled or avoided in future interactions. The assistant acknowledged the request and updated something, but did not provide a confirmation message.
+
+[2026-03-17 13:42] The user initially asked for the weather in Huechuraba, Chile. The assistant responded that it could not use the weather tool due to a veto. The user then removed the veto. The user asked again for the weather, but the assistant was unable to retrieve it due to the weather tool not working and an inability to search the web.
+

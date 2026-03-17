@@ -1,2 +1,1 @@
-I can use the skill at https://clawhub.ai/steipete/weather to get the weather. The user lives in Huechuraba, Chile. If the default weather tool fails, use https://clawhub.ai/steipete/weather.
-I should not use the weather tool.
+I can use the skill at https://clawhub.ai/steipete/weather to get the weather. The user lives in Huechuraba, Chile. If the default weather tool fails, use https://clawhub.ai/steipete/weather. The weather tool may not work.
