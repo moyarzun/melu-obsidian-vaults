@@ -1,3 +1,0 @@
-{"_type": "metadata", "created_at": "2026-03-17T14:21:58.830254", "updated_at": "2026-03-17T14:22:02.449709", "metadata": {}, "last_consolidated": 0}
-{"role": "user", "content": "Corre el comando ls /tmp con la herramienta exec.", "timestamp": "2026-03-17T14:22:02.449668"}
-{"role": "assistant", "content": "El directorio `/tmp` contiene el archivo `uv-6c2078bb75587c01.lock`.", "timestamp": "2026-03-17T14:22:02.449699", "tools_used": ["exec"]}

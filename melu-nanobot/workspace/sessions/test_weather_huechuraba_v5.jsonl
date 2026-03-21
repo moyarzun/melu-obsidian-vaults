@@ -1,3 +1,0 @@
-{"_type": "metadata", "created_at": "2026-03-17T14:22:59.555561", "updated_at": "2026-03-17T14:23:05.815525", "metadata": {}, "last_consolidated": 0}
-{"role": "user", "content": "Cu\u00e1l es el clima en Huechuraba?", "timestamp": "2026-03-17T14:23:05.815439"}
-{"role": "assistant", "content": "No puedo obtener el clima en Huechuraba en este momento porque necesito configurar una clave API de Google Weather.", "timestamp": "2026-03-17T14:23:05.815502", "tools_used": ["exec", "read_file", "write_file"]}

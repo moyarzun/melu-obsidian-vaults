@@ -1,3 +1,0 @@
-{"_type": "metadata", "created_at": "2026-03-17T14:20:31.174981", "updated_at": "2026-03-17T14:20:35.026101", "metadata": {}, "last_consolidated": 0}
-{"role": "user", "content": "Dime el clima en Huechuraba, usa la herramienta exec con curl.", "timestamp": "2026-03-17T14:20:35.026056"}
-{"role": "assistant", "content": "Lo siento, no pude obtener el clima en Huechuraba usando `curl`. Parece que el comando fue bloqueado por un guardia de seguridad.", "timestamp": "2026-03-17T14:20:35.026091", "tools_used": ["exec"]}

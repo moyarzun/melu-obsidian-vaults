@@ -1,3 +1,0 @@
-{"_type": "metadata", "created_at": "2026-03-17T14:21:36.814661", "updated_at": "2026-03-17T14:21:40.347510", "metadata": {}, "last_consolidated": 0}
-{"role": "user", "content": "Corre el comando ls con la herramienta exec.", "timestamp": "2026-03-17T14:21:40.347468"}
-{"role": "assistant", "content": "Aqu\u00ed est\u00e1n los archivos y directorios en el directorio actual: `AGENTS.md`, `SOUL.md`, `USER.md`, `clawhub_repo`, `memory`, `package-lock.json`, `sessions`, y `skills`.", "timestamp": "2026-03-17T14:21:40.347500", "tools_used": ["exec"]}

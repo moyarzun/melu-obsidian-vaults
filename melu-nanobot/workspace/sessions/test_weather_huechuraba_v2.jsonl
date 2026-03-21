@@ -1,3 +1,0 @@
-{"_type": "metadata", "created_at": "2026-03-17T14:18:13.144872", "updated_at": "2026-03-17T14:18:20.767059", "metadata": {}, "last_consolidated": 0}
-{"role": "user", "content": "Cu\u00e1l es el clima en Huechuraba?", "timestamp": "2026-03-17T14:18:20.766975"}
-{"role": "assistant", "content": "I am unable to get the weather in Huechuraba at this time. I need to configure a web search API key to be able to search the web.", "timestamp": "2026-03-17T14:18:20.767037", "tools_used": ["exec", "get_weather", "web_search", "write_file"]}
