@@ -1,0 +1,28 @@
+# Archivos sensibles - NO versionar
+*.pdf
+*.xml
+*.eml
+*.docx
+*.xlsx
+*.pptx
+contratos.json
+
+# Carpetas de código fuente (tienen su propio repo)
+veracta-portal/
+
+# Archivos temporales de macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V8
+.Trashes
+
+# Obsidian - no versionar cache ni workspace local
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/obsidian-git/.hotreload
+
+# Archivos de finanzas con datos sensibles
+finanzas/*.json
+finanzas/*.csv
