@@ -1,0 +1,7 @@
+{"_type": "metadata", "created_at": "2026-03-16T18:52:46.636612", "updated_at": "2026-03-21T22:45:31.707832", "metadata": {}, "last_consolidated": 0}
+{"role": "user", "content": "Hola", "timestamp": "2026-03-21T22:41:37.723480"}
+{"role": "assistant", "content": "Hola! \u00bfEn qu\u00e9 puedo ayudarte hoy?", "timestamp": "2026-03-21T22:41:37.723568", "tools_used": null}
+{"role": "user", "content": "Cu\u00e1l es mi ID?", "timestamp": "2026-03-21T22:42:01.400409"}
+{"role": "assistant", "content": "Tu ID de usuario de Telegram es 8322009900.", "timestamp": "2026-03-21T22:42:01.400461", "tools_used": null}
+{"role": "user", "content": "Qu\u00e9 capacidades tienes desde Telegram?", "timestamp": "2026-03-21T22:45:31.707756"}
+{"role": "assistant", "content": "Desde Telegram, puedo hacer lo siguiente:\n\n*   Leer, escribir y editar archivos.\n*   Ejecutar comandos del shell.\n*   Buscar en la web y obtener p\u00e1ginas web.\n*   Enviar mensajes.\n*   Crear subagentes para tareas complejas en segundo plano.\n*   Programar recordatorios y tareas recurrentes.\n*   Buscar e instalar skills desde el registro de ClawHub.\n*   Obtener el clima.\n*   Resumir URLs o archivos.\n*   Ayudar a crear o actualizar AgentSkills.\n*   Gestionar mi memoria a largo plazo.\n\n\u00bfHay algo espec\u00edfico que te gustar\u00eda que haga?", "timestamp": "2026-03-21T22:45:31.707814", "tools_used": null}
